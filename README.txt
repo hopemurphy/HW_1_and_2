@@ -40,22 +40,22 @@ HW 1
 
 HW 2
   Problem 1
-    #Output in the terminal
+    Output in the terminal
 
-    #Enter the desired x in lightyears (distance between spaceship and planet):10
-    #Enter the desired value for v as a fraction of the speed of light (in m/s):.9
-    #Time percieved by the observer in the rest frame: 11.117348388909265 years
-    #Time percieved by the person in the spaceship 4.84593981473902 years
+    Enter the desired x in lightyears (distance between spaceship and planet):10
+    Enter the desired value for v as a fraction of the speed of light (in m/s):.9
+    Time percieved by the observer in the rest frame: 11.117348388909265 years
+    Time percieved by the person in the spaceship 4.84593981473902 years
 
-    #Enter the desired x in lightyears (distance between spaceship and planet):10
-    #Enter the desired value for v as a fraction of the speed of light (in m/s):.98
-    #Time percieved by the observer in the rest frame: 10.209809744916672 years
-    #Time percieved by the person in the spaceship 2.0317264862881688 years
+    Enter the desired x in lightyears (distance between spaceship and planet):10
+    Enter the desired value for v as a fraction of the speed of light (in m/s):.98
+    Time percieved by the observer in the rest frame: 10.209809744916672 years
+    Time percieved by the person in the spaceship 2.0317264862881688 years
 
-    #Enter the desired x in lightyears (distance between spaceship and planet):10
-    #Enter the desired value for v as a fraction of the speed of light (in m/s):.999
-    #Time percieved by the observer in the rest frame: 10.015629179197536 years
-    #Time percieved by the person in the spaceship 0.44780056150314096 years
+    Enter the desired x in lightyears (distance between spaceship and planet):10
+    Enter the desired value for v as a fraction of the speed of light (in m/s):.999
+    Time percieved by the observer in the rest frame: 10.015629179197536 years
+    Time percieved by the person in the spaceship 0.44780056150314096 years
   
   Problem 2
     Output in the terminal
