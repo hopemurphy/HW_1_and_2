@@ -18,9 +18,9 @@ HW 1
     Enter the desired value for T (in s):2700
     The altitude in meters is: -2181559.8978108233
 
-     I conclude that you can not measure the altitude of the satellites for T less than 90 minutes because the satellite is not high enough in the sky to measure a positive altitude.
-     45 minutes results in a negative number because it is not high enough in the sky to give you a positive altitude. 
-     This is because R is larger than the calculated value for the first part of the equation when you input T=45mins. 
+    I conclude that you can not measure the altitude of the satellites for T less than 90 minutes because the satellite is not high enough in the sky to measure a positive altitude.
+    45 minutes results in a negative number because it is not high enough in the sky to give you a positive altitude. 
+    This is because R is larger than the calculated value for the first part of the equation when you input T=45mins. 
 
     Problem 2d)
     23.93 hours:
