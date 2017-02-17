@@ -18,7 +18,9 @@ HW 1
     Enter the desired value for T (in s):2700
     The altitude in meters is: -2181559.8978108233
 
-     I conclude that you can not measure the altitude of the satellites for T less than 90 minutes because the satellite is not high enough in the sky to measure a positive altitude. 45 minutes results in a negative number because it is not high enough in the sky to give you a positive altitude. This is because R is larger than the calculated value for the first part of the equation when you input T=45mins. 
+     I conclude that you can not measure the altitude of the satellites for T less than 90 minutes because the satellite is not high enough in the sky to measure a positive altitude.
+     45 minutes results in a negative number because it is not high enough in the sky to give you a positive altitude. 
+     This is because R is larger than the calculated value for the first part of the equation when you input T=45mins. 
 
     Problem 2d)
     23.93 hours:
@@ -29,9 +31,12 @@ HW 1
     Enter the desired value for T (in s):86400
     The altitude in meters is: 35855910.17617497
 
-    You use a sidereal day for calculations instead of 24 hrs (which is based off of solar time) because it is a more precise measurement for a day since "sidereal time is time measured with respect to the apparent motion of the 'fixed' stars in the sky due to the Earth's rotation." -from community.dur.ac.uk
+    You use a sidereal day for calculations instead of 24 hrs (which is based off of solar time) because it is a more precise measurement for a day since 
+    "sidereal time is time measured with respect to the apparent motion of the 'fixed' stars in the sky due to the Earth's rotation." -from community.dur.ac.uk
 
-    The difference between the altitudes is 82147.8462793m. The percent differenceis 0.22936820288%. This is not a large percent difference but since the numbers are so large there is a large difference in the altitude. This difference would be significant when working with satellites and it is important to have precise numbers when doing calculations in any part of physics and astronomy. 
+    The difference between the altitudes is 82147.8462793m. The percent differenceis 0.22936820288%. 
+    This is not a large percent difference but since the numbers are so large there is a large difference in the altitude. 
+    This difference would be significant when working with satellites and it is important to have precise numbers when doing calculations in any part of physics and astronomy. 
 
 HW 2
   Problem 1
