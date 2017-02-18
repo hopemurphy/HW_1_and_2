@@ -1,4 +1,4 @@
-#Homework Assignments
+#Homework-Assignments
 
 Problem 1: Special Relativity
   Ask for the value of x which is the distance between the spaceship and the planet in light years. 
