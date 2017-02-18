@@ -1,6 +1,5 @@
 # Homework-Assignments
 
-
   Problem 1
   Algorithm to convert a decimal (integer) into a binary number using recursion.
     Divide the integer by two to convert it to a base 2 number.
