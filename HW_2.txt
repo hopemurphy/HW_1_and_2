@@ -1,8 +1,19 @@
 #Homework Assignments
 
-HW 2
-  Problem 1
-    Output in the terminal
+Problem 1: Special Relativity
+  Ask for the value of x which is the distance between the spaceship and the planet in light years. 
+  The time in years that it takes for the spaceship to reach its destination is printed as percieved by:
+    the observer in the rest frame
+      and
+    the person in the spaceship
+
+Problem 2: The semi-emperical mass formula
+  Calculate the approximate nuclear binding energy B in MeV.
+  a_1, a_2, a_3, and a_4 are given.
+  Imput A and Z, then the value for B and B/A is printed.
+
+
+  Problem 1: Output in the terminal
 
     Enter the desired x in lightyears (distance between spaceship and planet):10
     Enter the desired value for v as a fraction of the speed of light (in m/s):.9
@@ -19,8 +30,7 @@ HW 2
     Time percieved by the observer in the rest frame: 10.015629179197536 years
     Time percieved by the person in the spaceship 0.44780056150314096 years
   
-  Problem 2
-    Output in the terminal
+  Problem 2: Output in the terminal
     
     Enter the desired value for A:58
     Enter the desired value for Z:28
